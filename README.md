@@ -2,7 +2,7 @@
 
 This is a MEAN stack web app. The initials DB credentials have been removed for obvious reasons. In order for it to work, add your MongoDB credentials in both server/server.js and server_bank/server.js, and add fake credit card data to the account collection. 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7, and was developed by Yue Zheng, Chung-yang Li, Haoyu Yin and Qijun Hou.
 
 ### Start users server
 
