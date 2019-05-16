@@ -1,6 +1,6 @@
 # FinalProjectGopats - INFO6150 - Spring 2019
 
-This is a budget tracker web app, developed by Yue Zheng, Haoyu Yin, Chung-Yang Li and Qijun Hou. 
+This is a budget tracker MEAN stack web app, developed by Yue Zheng, Haoyu Yin, Chung-Yang Li and Qijun Hou. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
